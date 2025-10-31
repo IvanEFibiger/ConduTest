@@ -149,6 +149,8 @@ Mi enfoque está en combinar **funcionalidad, seguridad y escalabilidad** en cad
 <p align="center">
   <img src="https://img.shields.io/badge/Autor-Iván%20Fibiger-lightgrey?style=flat-square">
   <img src="https://img.shields.io/badge/Licencia-Propietaria-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Contacto-ID%20Smart%20Solutions-333?style=flat-square">
+  <a href="https://www.linkedin.com/in/ivan-fibiger/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ivan--fibiger-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
 </p>
 ---
