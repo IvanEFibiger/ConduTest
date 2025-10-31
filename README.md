@@ -18,7 +18,6 @@
 
 
 
-# ConduTest — Sistema de Exámenes de Tránsito
 
 ConduTest es una aplicación desarrollada para digitalizar el proceso de evaluación teórica de licencias de conducir en municipios.  
 El objetivo fue reemplazar los exámenes en papel por una plataforma confiable, segura y adaptable a distintos entornos municipales.
@@ -94,6 +93,9 @@ Además, todos los eventos relevantes quedan registrados en un sistema de audito
 
 A continuación se presentan algunas de las pantallas principales de la aplicación, tanto en su versión para escritorio (Windows) como para tablet (Android).
 
+<details>
+  <summary>Ver capturas de pantalla</summary>
+
 ### Acceso y autenticación
 ![Login en PC](screenshots/login_pc.png)
 ![Login en tablet](screenshots/login_tablet.png)
@@ -117,6 +119,8 @@ A continuación se presentan algunas de las pantallas principales de la aplicaci
 ![Configuración general](screenshots/configuracion_pc.png)
 ![Auditoría de acciones](screenshots/auditoria_pc.png)
 ![Estadísticas](screenshots/estadisticas_pc.png)
+
+</details>
 
 *(Las imágenes corresponden a distintas vistas dentro de la aplicación, tanto en tablets como en equipos de escritorio.)*
 
