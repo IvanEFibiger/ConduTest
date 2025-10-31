@@ -1,0 +1,16 @@
+auditoria_pc.png
+carga_usuarios_tablet.png
+configuracion_pc.png
+dashboard_pc.png
+dispositivos_pc.png
+estadisticas_pc.png
+examenes_pc.png
+login_pc.png
+login_tablet.png
+pdf_resultado.png
+pregunta_imagen_tablet.png
+pregunta_simple_tablet.png
+resultados_pc.png
+resultado_tablet.png
+seleccion_examen_tablet.png
+usuarios_pc.png
