@@ -99,6 +99,7 @@ A continuación se presentan algunas de las pantallas principales de la aplicaci
 ![Login en tablet](screenshots/login_tablet.png)
 
 ### Selección y desarrollo del examen
+![Carga de datos del examinado](screenshots/carga_usuarios_tablet.png)
 ![Selección de examen](screenshots/seleccion_examen_tablet.png)
 ![Pregunta simple](screenshots/pregunta_simple_tablet.png)
 ![Pregunta con imagen](screenshots/pregunta_imagen_tablet.png)
@@ -112,7 +113,6 @@ A continuación se presentan algunas de las pantallas principales de la aplicaci
 ![Panel principal (dashboard)](screenshots/dashboard_pc.png)
 ![Gestión de exámenes](screenshots/examenes_pc.png)
 ![Gestión de usuarios](screenshots/usuarios_pc.png)
-![Carga de usuarios desde tablet](screenshots/carga_usuarios_tablet.png)
 ![Administración de dispositivos](screenshots/dispositivos_pc.png)
 ![Configuración general](screenshots/configuracion_pc.png)
 ![Auditoría de acciones](screenshots/auditoria_pc.png)
